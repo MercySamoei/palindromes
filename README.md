@@ -1,1 +1,1 @@
-# palindromes
+#... trying to understand how palindromes work.
